@@ -2,7 +2,7 @@
   "name": "mystore",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://jcmatabaro1.github.io/Glassandaluminium-Store",
+  "homepage" : "https://jcmatabaro1.github.io/glass-Store",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "react": "^16.10.2",
