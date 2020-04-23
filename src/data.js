@@ -11,7 +11,7 @@ export const storeProducts = [
     price: 10,
     company: "THE BEST AFFORDABLE GLASS AND ALUMINIUM",    //"GOOGLE",
     info:
-      "the windows come in different size price include delivery and fitting ",// "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "the windows come in different size price include delivery and fitting ",
     inCart: false,
     count: 0,
     total: 0
@@ -23,7 +23,7 @@ export const storeProducts = [
     price: 16,
     company:  "THE BEST AFFORDABLE GLASS AND ALUMINIUM",//"SAMSUNG",
     info:
-      "All kind of door from sliding and to standard Door",//"Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "All kind of door from sliding and to standard Door",
     inCart: false,
     count: 0,
     total: 0
@@ -35,7 +35,7 @@ export const storeProducts = [
     price: 8,
     company: "THE BEST AFFORDABLE GLASS AND ALUMINIUM",//"htc",
     info:
-      "all shower doors and glass ",//"Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "all shower doors and glass ",
     inCart: false,
     count: 0,
     total: 0
@@ -47,7 +47,7 @@ export const storeProducts = [
     price: 18,
     company: "THE BEST AFFORDABLE GLASS AND ALUMINIUM",//"htc",
     info:
-      "A wide range of sliding doors",//"Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "A wide range of sliding doors",
     inCart: false,
     count: 0,
     total: 0
@@ -59,7 +59,7 @@ export const storeProducts = [
     price: 24,
     company: "THE BEST AFFORDABLE GLASS AND ALUMINIUM",//"htc",
     info:
-      "a range of folding doors",//"Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "a range of folding doors",
     inCart: false,
     count: 0,
     total: 0
@@ -71,7 +71,7 @@ export const storeProducts = [
     price: 17,
     company: "THE BEST AFFORDBALE GLASS AND ALUMINUM",//"apple",
     info:
-     "Enclosure for your designated area",// "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+     "Enclosure for your designated area",
     inCart: false,
     count: 0,
     total: 0
@@ -83,7 +83,7 @@ export const storeProducts = [
     price: 30,
     company: "THE BEST AFFORDABLE GLASS AND ALUMINIUM",//"apple",
     info:
-      " baustrade ",//"Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      " baustrade ", 
     inCart: false,
     count: 0,
     total: 0
@@ -95,7 +95,7 @@ export const storeProducts = [
     price: 2,
     company: "THE BEST AFFORDABLE GLASS AND ALUMINIUM",//"apple",
     info:
-      "different kind of mirror",//"Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "different kind of mirror",
     inCart: false,
     count: 0,
     total: 0
@@ -103,7 +103,22 @@ export const storeProducts = [
 ];
 
 export const detailProduct = {
+
+
+
+
   id: 1,
+    title:  " ALUMINIUM WINDOW ALL SIZE",                                           //"Google Pixel - Black",
+    img: "img/product-1.png",
+    price: 10,
+    company: "THE BEST AFFORDABLE GLASS AND ALUMINIUM",    //"GOOGLE",
+    info:
+      "the windows come in different size price include delivery and fitting ",
+    inCart: false,
+    count: 0,
+    total: 0
+};
+  /*id: 1,
   title: "Google Pixel - Black",
   img: "img/product-1.png",
   price: 10,
@@ -113,4 +128,4 @@ export const detailProduct = {
   inCart: false,
   count: 0,
   total: 0
-};
+};*/

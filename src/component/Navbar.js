@@ -41,7 +41,7 @@ const NavWrapper = styled.nav`
   .nav-link {
     color: (--mainWhite) !important;
     font-size: 1.3rem;
-    //behind the seen  1rem equal to 16px
+    behind the seen  1rem equal to 16px
     text-transform: capitalize !important;
   }
 `;
