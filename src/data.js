@@ -8,7 +8,7 @@ export const storeProducts = [
     id: 1,
     title:  " ALUMINIUM WINDOW ALL SIZE",                                           //"Google Pixel - Black",
     img: "img/product-1.png",
-    price: 10,
+    price: 85,
     company: "THE BEST AFFORDABLE GLASS AND ALUMINIUM",    //"GOOGLE",
     info:
       "the windows come in different size price include delivery and fitting ",
@@ -42,7 +42,7 @@ export const storeProducts = [
   },
   {
     id: 4,
-    title: "SLIDING DOORS",//"HTC 10 - White",
+    title: "ALUMINIUM FOLDING DOORS",//"HTC 10 - White",
     img: "img/product-4.png",
     price: 18,
     company: "THE BEST AFFORDABLE GLASS AND ALUMINIUM",//"htc",
